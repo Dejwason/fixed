@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 
+// ... (zbytek App.jsx kódu byl vložen předtím z Canvasu, obsahuje localStorage)
+
 export default function KartotekaApp() {
   const [patients, setPatients] = useState([]);
   const [selectedPatientIndex, setSelectedPatientIndex] = useState(null);
@@ -105,8 +107,6 @@ export default function KartotekaApp() {
           <option value="teacher">Učitel</option>
         </select>
       </div>
-
-      <p style={{ textAlign: "center", fontStyle: "italic" }}>Zbytek aplikace zůstává stejný – ukázka ukládání do localStorage.</p>
     </div>
   );
 }
