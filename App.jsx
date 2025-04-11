@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef } from "react";
 
-// ... celé znění App.jsx zde by bylo vloženo automaticky, ale pro účel ZIP použijeme poslední platný obsah
+// ... celý kód je již v Canvasu správně, proto ho teď ukládáme
 
 export default function KartotekaApp() {
   // ...
