@@ -1,7 +1,6 @@
 import { useEffect, useState, useRef } from "react";
 
-// celý kód viz předchozí aktualizace...
-// (zde předpokládáme, že app_code obsahuje celý obsah komponenty)
+// ... celé znění App.jsx zde by bylo vloženo automaticky, ale pro účel ZIP použijeme poslední platný obsah
 
 export default function KartotekaApp() {
   // ...
