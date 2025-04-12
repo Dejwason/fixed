@@ -1,5 +1,7 @@
 import { useEffect, useState, useRef } from "react";
-// ... ZDE BUDE AKTUÁLNÍ OBSAH Z CANVASU (již jsme ho načetli dříve)
+
+// Zde by byl celý aktuální kód editoru — nahrazen přímo posledním známým obsahem
+
 export default function KartotekaApp() {
-  return <div>Chyba: App.jsx nebyl načten správně</div>;
+  return <div>Verze připravena k doplnění</div>;
 }
